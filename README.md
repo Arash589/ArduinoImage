@@ -3,7 +3,7 @@
 ![alt tag](https://raw.githubusercontent.com/heldersepu/hs-arduino/master/EasyLights/EasyLights.png)
 ___
 ![alt tag](https://github.com/heldersepu/hs-arduino/raw/servos/SmartServos/SmartServos_bb.png)
-# micro_processor        
+# ArduinoImage        
 # شامل تصاویر تمرین ها می باشد
 
  در عکس یک زمین به پایین مدار بسته شده به همراه دو مقاومت و دو led که در عکس سیم کشی ها و نحوه بستن کاملا مشخص هست . 
