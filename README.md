@@ -8,7 +8,7 @@ ___
 
  در عکس یک زمین به پایین مدار بسته شده به همراه دو مقاومت و دو led که در عکس سیم کشی ها و نحوه بستن کاملا مشخص هست . 
 <p align="center">
-    <img src="https://github.com/rezazabihi/micro_processor/blob/main/micro_processor/Untitled%20Sketch%202_bb.jpg" alt="micro"  title="rezazabihi">
+    <img src="https://github.com/Arash/C:\Users\Ami&Ara\Downloads\code-main\Untitled Sketch 2_bb.jpg" alt="micro"  title="Arash">
 </p>
 
  کار با serialplotter  که نمودار سینوسی و کسینوسی رسم می کند .
